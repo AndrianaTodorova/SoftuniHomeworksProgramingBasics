@@ -1,0 +1,6 @@
+c:\users\andri\documents\visual studio 2017\Projects\Simple-Calculations\09.CelsiusToFahrenheit\bin\Debug\09.CelsiusToFahrenheit.exe.config
+c:\users\andri\documents\visual studio 2017\Projects\Simple-Calculations\09.CelsiusToFahrenheit\bin\Debug\09.CelsiusToFahrenheit.exe
+c:\users\andri\documents\visual studio 2017\Projects\Simple-Calculations\09.CelsiusToFahrenheit\bin\Debug\09.CelsiusToFahrenheit.pdb
+c:\users\andri\documents\visual studio 2017\Projects\Simple-Calculations\09.CelsiusToFahrenheit\obj\Debug\09.CelsiusToFahrenheit.csprojResolveAssemblyReference.cache
+c:\users\andri\documents\visual studio 2017\Projects\Simple-Calculations\09.CelsiusToFahrenheit\obj\Debug\09.CelsiusToFahrenheit.exe
+c:\users\andri\documents\visual studio 2017\Projects\Simple-Calculations\09.CelsiusToFahrenheit\obj\Debug\09.CelsiusToFahrenheit.pdb

@@ -1,0 +1,5 @@
+C:\Users\andri\Desktop\Visual Studio 2017\Projects\Solution1\06.SquareOfStars\bin\Debug\06.SquareOfStars.exe.config
+C:\Users\andri\Desktop\Visual Studio 2017\Projects\Solution1\06.SquareOfStars\bin\Debug\06.SquareOfStars.exe
+C:\Users\andri\Desktop\Visual Studio 2017\Projects\Solution1\06.SquareOfStars\bin\Debug\06.SquareOfStars.pdb
+C:\Users\andri\Desktop\Visual Studio 2017\Projects\Solution1\06.SquareOfStars\obj\Debug\06.SquareOfStars.exe
+C:\Users\andri\Desktop\Visual Studio 2017\Projects\Solution1\06.SquareOfStars\obj\Debug\06.SquareOfStars.pdb

@@ -1,0 +1,5 @@
+c:\users\andri\documents\visual studio 2017\Projects\AdvancedLoops\05. Sequence 2k1\bin\Debug\_05.Sequence_2k1.exe.config
+c:\users\andri\documents\visual studio 2017\Projects\AdvancedLoops\05. Sequence 2k1\bin\Debug\_05.Sequence_2k1.exe
+c:\users\andri\documents\visual studio 2017\Projects\AdvancedLoops\05. Sequence 2k1\bin\Debug\_05.Sequence_2k1.pdb
+c:\users\andri\documents\visual studio 2017\Projects\AdvancedLoops\05. Sequence 2k1\obj\Debug\_05.Sequence_2k1.exe
+c:\users\andri\documents\visual studio 2017\Projects\AdvancedLoops\05. Sequence 2k1\obj\Debug\_05.Sequence_2k1.pdb

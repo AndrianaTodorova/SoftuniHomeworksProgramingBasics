@@ -1,0 +1,5 @@
+C:\Users\andri\Desktop\Visual Studio 2017\Projects\Solution1\02.Expression\bin\Debug\02.Expression.exe.config
+C:\Users\andri\Desktop\Visual Studio 2017\Projects\Solution1\02.Expression\bin\Debug\02.Expression.exe
+C:\Users\andri\Desktop\Visual Studio 2017\Projects\Solution1\02.Expression\bin\Debug\02.Expression.pdb
+C:\Users\andri\Desktop\Visual Studio 2017\Projects\Solution1\02.Expression\obj\Debug\02.Expression.exe
+C:\Users\andri\Desktop\Visual Studio 2017\Projects\Solution1\02.Expression\obj\Debug\02.Expression.pdb

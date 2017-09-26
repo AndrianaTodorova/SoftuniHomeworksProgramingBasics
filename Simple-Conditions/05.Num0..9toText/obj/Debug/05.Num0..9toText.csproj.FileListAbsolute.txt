@@ -1,0 +1,6 @@
+c:\users\andri\documents\visual studio 2017\Projects\Simple-Conditions\05.Num0..9toText\bin\Debug\_05.Num0._._9toText.exe.config
+c:\users\andri\documents\visual studio 2017\Projects\Simple-Conditions\05.Num0..9toText\bin\Debug\_05.Num0._._9toText.exe
+c:\users\andri\documents\visual studio 2017\Projects\Simple-Conditions\05.Num0..9toText\bin\Debug\_05.Num0._._9toText.pdb
+c:\users\andri\documents\visual studio 2017\Projects\Simple-Conditions\05.Num0..9toText\obj\Debug\05.Num0..9toText.csprojResolveAssemblyReference.cache
+c:\users\andri\documents\visual studio 2017\Projects\Simple-Conditions\05.Num0..9toText\obj\Debug\_05.Num0._._9toText.exe
+c:\users\andri\documents\visual studio 2017\Projects\Simple-Conditions\05.Num0..9toText\obj\Debug\_05.Num0._._9toText.pdb

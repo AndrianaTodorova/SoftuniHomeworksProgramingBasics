@@ -1,0 +1,6 @@
+C:\Users\andri\Documents\Visual Studio 2017\Projects\Complex-Conditions\02.SmallShop\bin\Debug\02.SmallShop.exe.config
+C:\Users\andri\Documents\Visual Studio 2017\Projects\Complex-Conditions\02.SmallShop\bin\Debug\02.SmallShop.exe
+C:\Users\andri\Documents\Visual Studio 2017\Projects\Complex-Conditions\02.SmallShop\bin\Debug\02.SmallShop.pdb
+C:\Users\andri\Documents\Visual Studio 2017\Projects\Complex-Conditions\02.SmallShop\obj\Debug\02.SmallShop.csprojResolveAssemblyReference.cache
+C:\Users\andri\Documents\Visual Studio 2017\Projects\Complex-Conditions\02.SmallShop\obj\Debug\02.SmallShop.exe
+C:\Users\andri\Documents\Visual Studio 2017\Projects\Complex-Conditions\02.SmallShop\obj\Debug\02.SmallShop.pdb

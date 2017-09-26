@@ -1,0 +1,5 @@
+c:\users\andri\documents\visual studio 2017\Projects\01.Exam\02.Vegetables\bin\Debug\02.Vegetables.exe.config
+c:\users\andri\documents\visual studio 2017\Projects\01.Exam\02.Vegetables\bin\Debug\02.Vegetables.exe
+c:\users\andri\documents\visual studio 2017\Projects\01.Exam\02.Vegetables\bin\Debug\02.Vegetables.pdb
+c:\users\andri\documents\visual studio 2017\Projects\01.Exam\02.Vegetables\obj\Debug\02.Vegetables.exe
+c:\users\andri\documents\visual studio 2017\Projects\01.Exam\02.Vegetables\obj\Debug\02.Vegetables.pdb

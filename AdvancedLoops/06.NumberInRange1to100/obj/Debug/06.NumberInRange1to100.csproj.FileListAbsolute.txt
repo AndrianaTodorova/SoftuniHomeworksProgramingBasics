@@ -1,0 +1,5 @@
+c:\users\andri\documents\visual studio 2017\Projects\AdvancedLoops\06.NumberInRange1to100\bin\Debug\06.NumberInRange1to100.exe.config
+c:\users\andri\documents\visual studio 2017\Projects\AdvancedLoops\06.NumberInRange1to100\bin\Debug\06.NumberInRange1to100.exe
+c:\users\andri\documents\visual studio 2017\Projects\AdvancedLoops\06.NumberInRange1to100\bin\Debug\06.NumberInRange1to100.pdb
+c:\users\andri\documents\visual studio 2017\Projects\AdvancedLoops\06.NumberInRange1to100\obj\Debug\06.NumberInRange1to100.exe
+c:\users\andri\documents\visual studio 2017\Projects\AdvancedLoops\06.NumberInRange1to100\obj\Debug\06.NumberInRange1to100.pdb

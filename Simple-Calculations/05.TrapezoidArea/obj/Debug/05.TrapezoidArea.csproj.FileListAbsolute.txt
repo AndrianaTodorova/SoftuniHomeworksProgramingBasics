@@ -1,0 +1,5 @@
+c:\users\andri\documents\visual studio 2017\Projects\Simple-Calculations\05.TrapezoidArea\bin\Debug\05.TrapezoidArea.exe.config
+c:\users\andri\documents\visual studio 2017\Projects\Simple-Calculations\05.TrapezoidArea\bin\Debug\05.TrapezoidArea.exe
+c:\users\andri\documents\visual studio 2017\Projects\Simple-Calculations\05.TrapezoidArea\bin\Debug\05.TrapezoidArea.pdb
+c:\users\andri\documents\visual studio 2017\Projects\Simple-Calculations\05.TrapezoidArea\obj\Debug\05.TrapezoidArea.exe
+c:\users\andri\documents\visual studio 2017\Projects\Simple-Calculations\05.TrapezoidArea\obj\Debug\05.TrapezoidArea.pdb

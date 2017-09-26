@@ -1,0 +1,5 @@
+C:\Users\andri\Documents\Visual Studio 2017\Projects\Simple-Conditions\11.EqualWords\bin\Debug\11.EqualWords.exe.config
+C:\Users\andri\Documents\Visual Studio 2017\Projects\Simple-Conditions\11.EqualWords\bin\Debug\11.EqualWords.exe
+C:\Users\andri\Documents\Visual Studio 2017\Projects\Simple-Conditions\11.EqualWords\bin\Debug\11.EqualWords.pdb
+C:\Users\andri\Documents\Visual Studio 2017\Projects\Simple-Conditions\11.EqualWords\obj\Debug\11.EqualWords.exe
+C:\Users\andri\Documents\Visual Studio 2017\Projects\Simple-Conditions\11.EqualWords\obj\Debug\11.EqualWords.pdb

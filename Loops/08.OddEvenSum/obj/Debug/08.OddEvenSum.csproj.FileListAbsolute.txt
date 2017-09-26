@@ -1,0 +1,5 @@
+C:\Users\andri\Desktop\Visual Studio 2017\Projects\Loops\08.OddEvenSum\bin\Debug\08.OddEvenSum.exe.config
+C:\Users\andri\Desktop\Visual Studio 2017\Projects\Loops\08.OddEvenSum\bin\Debug\08.OddEvenSum.exe
+C:\Users\andri\Desktop\Visual Studio 2017\Projects\Loops\08.OddEvenSum\bin\Debug\08.OddEvenSum.pdb
+C:\Users\andri\Desktop\Visual Studio 2017\Projects\Loops\08.OddEvenSum\obj\Debug\08.OddEvenSum.exe
+C:\Users\andri\Desktop\Visual Studio 2017\Projects\Loops\08.OddEvenSum\obj\Debug\08.OddEvenSum.pdb

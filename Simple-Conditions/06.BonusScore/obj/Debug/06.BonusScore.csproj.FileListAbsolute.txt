@@ -1,0 +1,6 @@
+c:\users\andri\documents\visual studio 2017\Projects\Simple-Conditions\06.BonusScore\bin\Debug\06.BonusScore.exe.config
+c:\users\andri\documents\visual studio 2017\Projects\Simple-Conditions\06.BonusScore\bin\Debug\06.BonusScore.exe
+c:\users\andri\documents\visual studio 2017\Projects\Simple-Conditions\06.BonusScore\bin\Debug\06.BonusScore.pdb
+c:\users\andri\documents\visual studio 2017\Projects\Simple-Conditions\06.BonusScore\obj\Debug\06.BonusScore.csprojResolveAssemblyReference.cache
+c:\users\andri\documents\visual studio 2017\Projects\Simple-Conditions\06.BonusScore\obj\Debug\06.BonusScore.exe
+c:\users\andri\documents\visual studio 2017\Projects\Simple-Conditions\06.BonusScore\obj\Debug\06.BonusScore.pdb

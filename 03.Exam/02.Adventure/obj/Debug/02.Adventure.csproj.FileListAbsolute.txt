@@ -1,0 +1,6 @@
+c:\users\andri\documents\visual studio 2017\Projects\03.Exam\02.Adventure\bin\Debug\02.Adventure.exe.config
+c:\users\andri\documents\visual studio 2017\Projects\03.Exam\02.Adventure\bin\Debug\02.Adventure.exe
+c:\users\andri\documents\visual studio 2017\Projects\03.Exam\02.Adventure\bin\Debug\02.Adventure.pdb
+c:\users\andri\documents\visual studio 2017\Projects\03.Exam\02.Adventure\obj\Debug\02.Adventure.csprojResolveAssemblyReference.cache
+c:\users\andri\documents\visual studio 2017\Projects\03.Exam\02.Adventure\obj\Debug\02.Adventure.exe
+c:\users\andri\documents\visual studio 2017\Projects\03.Exam\02.Adventure\obj\Debug\02.Adventure.pdb

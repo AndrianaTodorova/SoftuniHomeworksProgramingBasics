@@ -1,0 +1,6 @@
+C:\Users\andri\Desktop\My Projects\05.Exam\04.Arrow\bin\Debug\04.Arrow.exe.config
+C:\Users\andri\Desktop\My Projects\05.Exam\04.Arrow\bin\Debug\04.Arrow.exe
+C:\Users\andri\Desktop\My Projects\05.Exam\04.Arrow\bin\Debug\04.Arrow.pdb
+C:\Users\andri\Desktop\My Projects\05.Exam\04.Arrow\obj\Debug\04.Arrow.csprojResolveAssemblyReference.cache
+C:\Users\andri\Desktop\My Projects\05.Exam\04.Arrow\obj\Debug\04.Arrow.exe
+C:\Users\andri\Desktop\My Projects\05.Exam\04.Arrow\obj\Debug\04.Arrow.pdb

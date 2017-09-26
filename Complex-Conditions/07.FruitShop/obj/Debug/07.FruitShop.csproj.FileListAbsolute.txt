@@ -1,0 +1,6 @@
+C:\Users\andri\Documents\Visual Studio 2017\Projects\Complex-Conditions\07.FruitShop\bin\Debug\07.FruitShop.exe.config
+C:\Users\andri\Documents\Visual Studio 2017\Projects\Complex-Conditions\07.FruitShop\bin\Debug\07.FruitShop.exe
+C:\Users\andri\Documents\Visual Studio 2017\Projects\Complex-Conditions\07.FruitShop\bin\Debug\07.FruitShop.pdb
+C:\Users\andri\Documents\Visual Studio 2017\Projects\Complex-Conditions\07.FruitShop\obj\Debug\07.FruitShop.csprojResolveAssemblyReference.cache
+C:\Users\andri\Documents\Visual Studio 2017\Projects\Complex-Conditions\07.FruitShop\obj\Debug\07.FruitShop.exe
+C:\Users\andri\Documents\Visual Studio 2017\Projects\Complex-Conditions\07.FruitShop\obj\Debug\07.FruitShop.pdb

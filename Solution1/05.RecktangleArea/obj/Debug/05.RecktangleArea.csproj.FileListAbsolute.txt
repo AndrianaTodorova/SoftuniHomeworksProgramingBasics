@@ -1,0 +1,5 @@
+C:\Users\andri\Desktop\Visual Studio 2017\Projects\Solution1\05.RecktangleArea\bin\Debug\05.RecktangleArea.exe.config
+C:\Users\andri\Desktop\Visual Studio 2017\Projects\Solution1\05.RecktangleArea\bin\Debug\05.RecktangleArea.exe
+C:\Users\andri\Desktop\Visual Studio 2017\Projects\Solution1\05.RecktangleArea\bin\Debug\05.RecktangleArea.pdb
+C:\Users\andri\Desktop\Visual Studio 2017\Projects\Solution1\05.RecktangleArea\obj\Debug\05.RecktangleArea.exe
+C:\Users\andri\Desktop\Visual Studio 2017\Projects\Solution1\05.RecktangleArea\obj\Debug\05.RecktangleArea.pdb

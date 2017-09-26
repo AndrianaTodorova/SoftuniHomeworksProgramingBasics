@@ -1,0 +1,5 @@
+c:\users\andri\documents\visual studio 2017\Projects\Simple-Calculations\02.InchesToCentimeters\bin\Debug\02.InchesToCentimeters.exe.config
+c:\users\andri\documents\visual studio 2017\Projects\Simple-Calculations\02.InchesToCentimeters\bin\Debug\02.InchesToCentimeters.exe
+c:\users\andri\documents\visual studio 2017\Projects\Simple-Calculations\02.InchesToCentimeters\bin\Debug\02.InchesToCentimeters.pdb
+c:\users\andri\documents\visual studio 2017\Projects\Simple-Calculations\02.InchesToCentimeters\obj\Debug\02.InchesToCentimeters.exe
+c:\users\andri\documents\visual studio 2017\Projects\Simple-Calculations\02.InchesToCentimeters\obj\Debug\02.InchesToCentimeters.pdb

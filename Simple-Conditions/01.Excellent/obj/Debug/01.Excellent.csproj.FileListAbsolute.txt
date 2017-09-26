@@ -1,0 +1,6 @@
+c:\users\andri\documents\visual studio 2017\Projects\Simple-Conditions\01.Excellent\bin\Debug\01.Excellent.exe.config
+c:\users\andri\documents\visual studio 2017\Projects\Simple-Conditions\01.Excellent\bin\Debug\01.Excellent.exe
+c:\users\andri\documents\visual studio 2017\Projects\Simple-Conditions\01.Excellent\bin\Debug\01.Excellent.pdb
+c:\users\andri\documents\visual studio 2017\Projects\Simple-Conditions\01.Excellent\obj\Debug\01.Excellent.csprojResolveAssemblyReference.cache
+c:\users\andri\documents\visual studio 2017\Projects\Simple-Conditions\01.Excellent\obj\Debug\01.Excellent.exe
+c:\users\andri\documents\visual studio 2017\Projects\Simple-Conditions\01.Excellent\obj\Debug\01.Excellent.pdb

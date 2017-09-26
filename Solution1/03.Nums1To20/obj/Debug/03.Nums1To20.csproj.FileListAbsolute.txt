@@ -1,0 +1,5 @@
+C:\Users\andri\Desktop\Visual Studio 2017\Projects\Solution1\03.Nums1To20\bin\Debug\03.Nums1To20.exe.config
+C:\Users\andri\Desktop\Visual Studio 2017\Projects\Solution1\03.Nums1To20\bin\Debug\03.Nums1To20.exe
+C:\Users\andri\Desktop\Visual Studio 2017\Projects\Solution1\03.Nums1To20\bin\Debug\03.Nums1To20.pdb
+C:\Users\andri\Desktop\Visual Studio 2017\Projects\Solution1\03.Nums1To20\obj\Debug\03.Nums1To20.exe
+C:\Users\andri\Desktop\Visual Studio 2017\Projects\Solution1\03.Nums1To20\obj\Debug\03.Nums1To20.pdb

@@ -1,0 +1,6 @@
+C:\Users\andri\Desktop\My Projects\05.Exam\05.Axe\bin\Debug\05.Axe.exe.config
+C:\Users\andri\Desktop\My Projects\05.Exam\05.Axe\bin\Debug\05.Axe.exe
+C:\Users\andri\Desktop\My Projects\05.Exam\05.Axe\bin\Debug\05.Axe.pdb
+C:\Users\andri\Desktop\My Projects\05.Exam\05.Axe\obj\Debug\05.Axe.csprojResolveAssemblyReference.cache
+C:\Users\andri\Desktop\My Projects\05.Exam\05.Axe\obj\Debug\05.Axe.exe
+C:\Users\andri\Desktop\My Projects\05.Exam\05.Axe\obj\Debug\05.Axe.pdb

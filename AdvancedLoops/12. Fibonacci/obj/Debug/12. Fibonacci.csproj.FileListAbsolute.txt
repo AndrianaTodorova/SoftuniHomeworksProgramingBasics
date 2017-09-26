@@ -1,0 +1,5 @@
+C:\Users\andri\Desktop\My Projects\AdvancedLoops\12. Fibonacci\bin\Debug\_12.Fibonacci.exe.config
+C:\Users\andri\Desktop\My Projects\AdvancedLoops\12. Fibonacci\bin\Debug\_12.Fibonacci.exe
+C:\Users\andri\Desktop\My Projects\AdvancedLoops\12. Fibonacci\bin\Debug\_12.Fibonacci.pdb
+C:\Users\andri\Desktop\My Projects\AdvancedLoops\12. Fibonacci\obj\Debug\_12.Fibonacci.exe
+C:\Users\andri\Desktop\My Projects\AdvancedLoops\12. Fibonacci\obj\Debug\_12.Fibonacci.pdb

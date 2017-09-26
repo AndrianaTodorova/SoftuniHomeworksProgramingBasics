@@ -1,0 +1,5 @@
+c:\users\andri\documents\visual studio 2017\Projects\Draw-With-Loops\03.SquareOfStars\bin\Debug\03.SquareOfStars.exe.config
+c:\users\andri\documents\visual studio 2017\Projects\Draw-With-Loops\03.SquareOfStars\bin\Debug\03.SquareOfStars.exe
+c:\users\andri\documents\visual studio 2017\Projects\Draw-With-Loops\03.SquareOfStars\bin\Debug\03.SquareOfStars.pdb
+c:\users\andri\documents\visual studio 2017\Projects\Draw-With-Loops\03.SquareOfStars\obj\Debug\03.SquareOfStars.exe
+c:\users\andri\documents\visual studio 2017\Projects\Draw-With-Loops\03.SquareOfStars\obj\Debug\03.SquareOfStars.pdb

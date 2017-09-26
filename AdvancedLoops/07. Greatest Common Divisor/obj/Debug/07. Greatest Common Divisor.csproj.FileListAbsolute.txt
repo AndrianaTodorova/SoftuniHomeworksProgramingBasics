@@ -1,0 +1,5 @@
+c:\users\andri\documents\visual studio 2017\Projects\AdvancedLoops\07. Greatest Common Divisor\bin\Debug\_07.Greatest_Common_Divisor.exe.config
+c:\users\andri\documents\visual studio 2017\Projects\AdvancedLoops\07. Greatest Common Divisor\bin\Debug\_07.Greatest_Common_Divisor.exe
+c:\users\andri\documents\visual studio 2017\Projects\AdvancedLoops\07. Greatest Common Divisor\bin\Debug\_07.Greatest_Common_Divisor.pdb
+c:\users\andri\documents\visual studio 2017\Projects\AdvancedLoops\07. Greatest Common Divisor\obj\Debug\_07.Greatest_Common_Divisor.exe
+c:\users\andri\documents\visual studio 2017\Projects\AdvancedLoops\07. Greatest Common Divisor\obj\Debug\_07.Greatest_Common_Divisor.pdb

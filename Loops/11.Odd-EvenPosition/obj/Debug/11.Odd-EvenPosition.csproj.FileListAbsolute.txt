@@ -1,0 +1,6 @@
+C:\Users\andri\Desktop\Visual Studio 2017\Projects\Loops\11.Odd-EvenPosition\bin\Debug\11.Odd-EvenPosition.exe.config
+C:\Users\andri\Desktop\Visual Studio 2017\Projects\Loops\11.Odd-EvenPosition\bin\Debug\11.Odd-EvenPosition.exe
+C:\Users\andri\Desktop\Visual Studio 2017\Projects\Loops\11.Odd-EvenPosition\bin\Debug\11.Odd-EvenPosition.pdb
+C:\Users\andri\Desktop\Visual Studio 2017\Projects\Loops\11.Odd-EvenPosition\obj\Debug\11.Odd-EvenPosition.csprojResolveAssemblyReference.cache
+C:\Users\andri\Desktop\Visual Studio 2017\Projects\Loops\11.Odd-EvenPosition\obj\Debug\11.Odd-EvenPosition.exe
+C:\Users\andri\Desktop\Visual Studio 2017\Projects\Loops\11.Odd-EvenPosition\obj\Debug\11.Odd-EvenPosition.pdb

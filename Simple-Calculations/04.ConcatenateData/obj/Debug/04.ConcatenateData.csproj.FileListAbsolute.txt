@@ -1,0 +1,5 @@
+c:\users\andri\documents\visual studio 2017\Projects\Simple-Calculations\04.ConcatenateData\bin\Debug\04.ConcatenateData.exe.config
+c:\users\andri\documents\visual studio 2017\Projects\Simple-Calculations\04.ConcatenateData\bin\Debug\04.ConcatenateData.exe
+c:\users\andri\documents\visual studio 2017\Projects\Simple-Calculations\04.ConcatenateData\bin\Debug\04.ConcatenateData.pdb
+c:\users\andri\documents\visual studio 2017\Projects\Simple-Calculations\04.ConcatenateData\obj\Debug\04.ConcatenateData.exe
+c:\users\andri\documents\visual studio 2017\Projects\Simple-Calculations\04.ConcatenateData\obj\Debug\04.ConcatenateData.pdb

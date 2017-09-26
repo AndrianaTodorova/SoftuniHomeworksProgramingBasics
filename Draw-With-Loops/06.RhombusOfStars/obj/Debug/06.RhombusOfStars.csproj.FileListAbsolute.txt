@@ -1,0 +1,5 @@
+c:\users\andri\documents\visual studio 2017\Projects\Draw-With-Loops\06.RhombusOfStars\bin\Debug\06.RhombusOfStars.exe.config
+c:\users\andri\documents\visual studio 2017\Projects\Draw-With-Loops\06.RhombusOfStars\bin\Debug\06.RhombusOfStars.exe
+c:\users\andri\documents\visual studio 2017\Projects\Draw-With-Loops\06.RhombusOfStars\bin\Debug\06.RhombusOfStars.pdb
+c:\users\andri\documents\visual studio 2017\Projects\Draw-With-Loops\06.RhombusOfStars\obj\Debug\06.RhombusOfStars.exe
+c:\users\andri\documents\visual studio 2017\Projects\Draw-With-Loops\06.RhombusOfStars\obj\Debug\06.RhombusOfStars.pdb

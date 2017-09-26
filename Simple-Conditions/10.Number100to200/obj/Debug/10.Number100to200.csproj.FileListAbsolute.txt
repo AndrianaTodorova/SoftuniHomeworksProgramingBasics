@@ -1,0 +1,6 @@
+C:\Users\andri\Documents\Visual Studio 2017\Projects\Simple-Conditions\10.Number100to200\bin\Debug\10.Number100to200.exe.config
+C:\Users\andri\Documents\Visual Studio 2017\Projects\Simple-Conditions\10.Number100to200\bin\Debug\10.Number100to200.exe
+C:\Users\andri\Documents\Visual Studio 2017\Projects\Simple-Conditions\10.Number100to200\bin\Debug\10.Number100to200.pdb
+C:\Users\andri\Documents\Visual Studio 2017\Projects\Simple-Conditions\10.Number100to200\obj\Debug\10.Number100to200.csprojResolveAssemblyReference.cache
+C:\Users\andri\Documents\Visual Studio 2017\Projects\Simple-Conditions\10.Number100to200\obj\Debug\10.Number100to200.exe
+C:\Users\andri\Documents\Visual Studio 2017\Projects\Simple-Conditions\10.Number100to200\obj\Debug\10.Number100to200.pdb

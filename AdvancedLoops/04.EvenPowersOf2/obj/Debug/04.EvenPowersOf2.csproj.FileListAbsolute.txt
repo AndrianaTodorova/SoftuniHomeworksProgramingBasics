@@ -1,0 +1,5 @@
+c:\users\andri\documents\visual studio 2017\Projects\AdvancedLoops\04.EvenPowersOf2\bin\Debug\04.EvenPowersOf2.exe.config
+c:\users\andri\documents\visual studio 2017\Projects\AdvancedLoops\04.EvenPowersOf2\bin\Debug\04.EvenPowersOf2.exe
+c:\users\andri\documents\visual studio 2017\Projects\AdvancedLoops\04.EvenPowersOf2\bin\Debug\04.EvenPowersOf2.pdb
+c:\users\andri\documents\visual studio 2017\Projects\AdvancedLoops\04.EvenPowersOf2\obj\Debug\04.EvenPowersOf2.exe
+c:\users\andri\documents\visual studio 2017\Projects\AdvancedLoops\04.EvenPowersOf2\obj\Debug\04.EvenPowersOf2.pdb

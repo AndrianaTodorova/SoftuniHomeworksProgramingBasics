@@ -1,0 +1,12 @@
+c:\users\andri\documents\visual studio 2017\Projects\Simple-Calculations\12.CurrencyConverter\bin\Debug\12.CurrencyConverter.exe.config
+c:\users\andri\documents\visual studio 2017\Projects\Simple-Calculations\12.CurrencyConverter\bin\Debug\12.CurrencyConverter.exe
+c:\users\andri\documents\visual studio 2017\Projects\Simple-Calculations\12.CurrencyConverter\bin\Debug\12.CurrencyConverter.pdb
+c:\users\andri\documents\visual studio 2017\Projects\Simple-Calculations\12.CurrencyConverter\obj\Debug\12.CurrencyConverter.csprojResolveAssemblyReference.cache
+c:\users\andri\documents\visual studio 2017\Projects\Simple-Calculations\12.CurrencyConverter\obj\Debug\12.CurrencyConverter.exe
+c:\users\andri\documents\visual studio 2017\Projects\Simple-Calculations\12.CurrencyConverter\obj\Debug\12.CurrencyConverter.pdb
+C:\Users\andri\Desktop\Visual Studio 2017\Projects\Simple-Calculations\12.CurrencyConverter\bin\Debug\12.CurrencyConverter.exe.config
+C:\Users\andri\Desktop\Visual Studio 2017\Projects\Simple-Calculations\12.CurrencyConverter\bin\Debug\12.CurrencyConverter.exe
+C:\Users\andri\Desktop\Visual Studio 2017\Projects\Simple-Calculations\12.CurrencyConverter\bin\Debug\12.CurrencyConverter.pdb
+C:\Users\andri\Desktop\Visual Studio 2017\Projects\Simple-Calculations\12.CurrencyConverter\obj\Debug\12.CurrencyConverter.csprojResolveAssemblyReference.cache
+C:\Users\andri\Desktop\Visual Studio 2017\Projects\Simple-Calculations\12.CurrencyConverter\obj\Debug\12.CurrencyConverter.exe
+C:\Users\andri\Desktop\Visual Studio 2017\Projects\Simple-Calculations\12.CurrencyConverter\obj\Debug\12.CurrencyConverter.pdb

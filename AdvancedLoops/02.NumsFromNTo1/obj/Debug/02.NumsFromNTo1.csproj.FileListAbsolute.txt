@@ -1,0 +1,5 @@
+c:\users\andri\documents\visual studio 2017\Projects\AdvancedLoops\02.NumsFromNTo1\bin\Debug\02.NumsFromNTo1.exe.config
+c:\users\andri\documents\visual studio 2017\Projects\AdvancedLoops\02.NumsFromNTo1\bin\Debug\02.NumsFromNTo1.exe
+c:\users\andri\documents\visual studio 2017\Projects\AdvancedLoops\02.NumsFromNTo1\bin\Debug\02.NumsFromNTo1.pdb
+c:\users\andri\documents\visual studio 2017\Projects\AdvancedLoops\02.NumsFromNTo1\obj\Debug\02.NumsFromNTo1.exe
+c:\users\andri\documents\visual studio 2017\Projects\AdvancedLoops\02.NumsFromNTo1\obj\Debug\02.NumsFromNTo1.pdb

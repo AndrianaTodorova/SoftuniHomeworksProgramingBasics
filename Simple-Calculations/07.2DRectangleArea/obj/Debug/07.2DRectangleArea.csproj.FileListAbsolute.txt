@@ -1,0 +1,5 @@
+c:\users\andri\documents\visual studio 2017\Projects\Simple-Calculations\07.2DRectangleArea\bin\Debug\07.2DRectangleArea.exe.config
+c:\users\andri\documents\visual studio 2017\Projects\Simple-Calculations\07.2DRectangleArea\bin\Debug\07.2DRectangleArea.exe
+c:\users\andri\documents\visual studio 2017\Projects\Simple-Calculations\07.2DRectangleArea\bin\Debug\07.2DRectangleArea.pdb
+c:\users\andri\documents\visual studio 2017\Projects\Simple-Calculations\07.2DRectangleArea\obj\Debug\07.2DRectangleArea.exe
+c:\users\andri\documents\visual studio 2017\Projects\Simple-Calculations\07.2DRectangleArea\obj\Debug\07.2DRectangleArea.pdb

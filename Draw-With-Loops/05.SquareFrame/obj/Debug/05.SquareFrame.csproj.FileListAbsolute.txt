@@ -1,0 +1,5 @@
+c:\users\andri\documents\visual studio 2017\Projects\Draw-With-Loops\05.SquareFrame\bin\Debug\05.SquareFrame.exe.config
+c:\users\andri\documents\visual studio 2017\Projects\Draw-With-Loops\05.SquareFrame\bin\Debug\05.SquareFrame.exe
+c:\users\andri\documents\visual studio 2017\Projects\Draw-With-Loops\05.SquareFrame\bin\Debug\05.SquareFrame.pdb
+c:\users\andri\documents\visual studio 2017\Projects\Draw-With-Loops\05.SquareFrame\obj\Debug\05.SquareFrame.exe
+c:\users\andri\documents\visual studio 2017\Projects\Draw-With-Loops\05.SquareFrame\obj\Debug\05.SquareFrame.pdb

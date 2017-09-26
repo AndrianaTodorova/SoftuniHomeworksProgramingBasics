@@ -1,0 +1,6 @@
+C:\Users\andri\Desktop\Visual Studio 2017\Projects\Simple-Calculations\13.100DaysAfterBirth\bin\Debug\13.100DaysAfterBirth.exe.config
+C:\Users\andri\Desktop\Visual Studio 2017\Projects\Simple-Calculations\13.100DaysAfterBirth\bin\Debug\13.100DaysAfterBirth.exe
+C:\Users\andri\Desktop\Visual Studio 2017\Projects\Simple-Calculations\13.100DaysAfterBirth\bin\Debug\13.100DaysAfterBirth.pdb
+C:\Users\andri\Desktop\Visual Studio 2017\Projects\Simple-Calculations\13.100DaysAfterBirth\obj\Debug\13.100DaysAfterBirth.csprojResolveAssemblyReference.cache
+C:\Users\andri\Desktop\Visual Studio 2017\Projects\Simple-Calculations\13.100DaysAfterBirth\obj\Debug\13.100DaysAfterBirth.exe
+C:\Users\andri\Desktop\Visual Studio 2017\Projects\Simple-Calculations\13.100DaysAfterBirth\obj\Debug\13.100DaysAfterBirth.pdb

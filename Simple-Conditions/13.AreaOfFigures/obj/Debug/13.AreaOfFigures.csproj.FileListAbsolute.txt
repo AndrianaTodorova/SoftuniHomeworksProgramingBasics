@@ -1,0 +1,6 @@
+C:\Users\andri\Documents\Visual Studio 2017\Projects\Simple-Conditions\13.AreaOfFigures\bin\Debug\13.AreaOfFigures.exe.config
+C:\Users\andri\Documents\Visual Studio 2017\Projects\Simple-Conditions\13.AreaOfFigures\bin\Debug\13.AreaOfFigures.exe
+C:\Users\andri\Documents\Visual Studio 2017\Projects\Simple-Conditions\13.AreaOfFigures\bin\Debug\13.AreaOfFigures.pdb
+C:\Users\andri\Documents\Visual Studio 2017\Projects\Simple-Conditions\13.AreaOfFigures\obj\Debug\13.AreaOfFigures.csprojResolveAssemblyReference.cache
+C:\Users\andri\Documents\Visual Studio 2017\Projects\Simple-Conditions\13.AreaOfFigures\obj\Debug\13.AreaOfFigures.exe
+C:\Users\andri\Documents\Visual Studio 2017\Projects\Simple-Conditions\13.AreaOfFigures\obj\Debug\13.AreaOfFigures.pdb

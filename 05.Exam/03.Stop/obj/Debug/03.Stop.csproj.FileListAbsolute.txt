@@ -1,0 +1,5 @@
+C:\Users\andri\Desktop\My Projects\05.Exam\03.Stop\bin\Debug\03.Stop.exe.config
+C:\Users\andri\Desktop\My Projects\05.Exam\03.Stop\bin\Debug\03.Stop.exe
+C:\Users\andri\Desktop\My Projects\05.Exam\03.Stop\bin\Debug\03.Stop.pdb
+C:\Users\andri\Desktop\My Projects\05.Exam\03.Stop\obj\Debug\03.Stop.exe
+C:\Users\andri\Desktop\My Projects\05.Exam\03.Stop\obj\Debug\03.Stop.pdb

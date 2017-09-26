@@ -1,0 +1,6 @@
+C:\Users\andri\Documents\Visual Studio 2017\Projects\Complex-Conditions\01.Personal.Titles\bin\Debug\01.Personal.Titles.exe.config
+C:\Users\andri\Documents\Visual Studio 2017\Projects\Complex-Conditions\01.Personal.Titles\bin\Debug\01.Personal.Titles.exe
+C:\Users\andri\Documents\Visual Studio 2017\Projects\Complex-Conditions\01.Personal.Titles\bin\Debug\01.Personal.Titles.pdb
+C:\Users\andri\Documents\Visual Studio 2017\Projects\Complex-Conditions\01.Personal.Titles\obj\Debug\01.Personal.Titles.csprojResolveAssemblyReference.cache
+C:\Users\andri\Documents\Visual Studio 2017\Projects\Complex-Conditions\01.Personal.Titles\obj\Debug\01.Personal.Titles.exe
+C:\Users\andri\Documents\Visual Studio 2017\Projects\Complex-Conditions\01.Personal.Titles\obj\Debug\01.Personal.Titles.pdb

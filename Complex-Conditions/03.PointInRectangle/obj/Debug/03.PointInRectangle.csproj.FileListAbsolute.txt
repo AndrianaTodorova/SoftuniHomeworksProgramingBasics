@@ -1,0 +1,3 @@
+C:\Users\andri\Documents\Visual Studio 2017\Projects\Complex-Conditions\03.PointInRectangle\obj\Debug\03.PointInRectangle.csprojResolveAssemblyReference.cache
+C:\Users\andri\Documents\Visual Studio 2017\Projects\Complex-Conditions\03.PointInRectangle\obj\Debug\03.PointInRectangle.exe
+C:\Users\andri\Documents\Visual Studio 2017\Projects\Complex-Conditions\03.PointInRectangle\obj\Debug\03.PointInRectangle.pdb

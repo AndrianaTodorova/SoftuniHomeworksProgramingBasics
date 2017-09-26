@@ -1,0 +1,6 @@
+C:\Users\andri\Desktop\Visual Studio 2017\Projects\Loops\12.EqualPairs\bin\Debug\12.EqualPairs.exe.config
+C:\Users\andri\Desktop\Visual Studio 2017\Projects\Loops\12.EqualPairs\bin\Debug\12.EqualPairs.exe
+C:\Users\andri\Desktop\Visual Studio 2017\Projects\Loops\12.EqualPairs\bin\Debug\12.EqualPairs.pdb
+C:\Users\andri\Desktop\Visual Studio 2017\Projects\Loops\12.EqualPairs\obj\Debug\12.EqualPairs.csprojResolveAssemblyReference.cache
+C:\Users\andri\Desktop\Visual Studio 2017\Projects\Loops\12.EqualPairs\obj\Debug\12.EqualPairs.exe
+C:\Users\andri\Desktop\Visual Studio 2017\Projects\Loops\12.EqualPairs\obj\Debug\12.EqualPairs.pdb

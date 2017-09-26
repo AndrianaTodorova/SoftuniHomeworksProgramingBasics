@@ -1,0 +1,5 @@
+c:\users\andri\documents\visual studio 2017\Projects\Simple-Calculations\08.TriangleArea\bin\Debug\08.TriangleArea.exe.config
+c:\users\andri\documents\visual studio 2017\Projects\Simple-Calculations\08.TriangleArea\bin\Debug\08.TriangleArea.exe
+c:\users\andri\documents\visual studio 2017\Projects\Simple-Calculations\08.TriangleArea\bin\Debug\08.TriangleArea.pdb
+c:\users\andri\documents\visual studio 2017\Projects\Simple-Calculations\08.TriangleArea\obj\Debug\08.TriangleArea.exe
+c:\users\andri\documents\visual studio 2017\Projects\Simple-Calculations\08.TriangleArea\obj\Debug\08.TriangleArea.pdb

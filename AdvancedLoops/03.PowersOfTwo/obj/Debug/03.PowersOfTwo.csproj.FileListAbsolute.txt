@@ -1,0 +1,5 @@
+c:\users\andri\documents\visual studio 2017\Projects\AdvancedLoops\03.PowersOfTwo\bin\Debug\03.PowersOfTwo.exe.config
+c:\users\andri\documents\visual studio 2017\Projects\AdvancedLoops\03.PowersOfTwo\bin\Debug\03.PowersOfTwo.exe
+c:\users\andri\documents\visual studio 2017\Projects\AdvancedLoops\03.PowersOfTwo\bin\Debug\03.PowersOfTwo.pdb
+c:\users\andri\documents\visual studio 2017\Projects\AdvancedLoops\03.PowersOfTwo\obj\Debug\03.PowersOfTwo.exe
+c:\users\andri\documents\visual studio 2017\Projects\AdvancedLoops\03.PowersOfTwo\obj\Debug\03.PowersOfTwo.pdb

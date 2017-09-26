@@ -1,0 +1,6 @@
+C:\Users\andri\Desktop\My Projects\AdvancedLoops\11. EnterEvenNumber\bin\Debug\_11.EnterEvenNumber.exe.config
+C:\Users\andri\Desktop\My Projects\AdvancedLoops\11. EnterEvenNumber\bin\Debug\_11.EnterEvenNumber.exe
+C:\Users\andri\Desktop\My Projects\AdvancedLoops\11. EnterEvenNumber\bin\Debug\_11.EnterEvenNumber.pdb
+C:\Users\andri\Desktop\My Projects\AdvancedLoops\11. EnterEvenNumber\obj\Debug\_11.EnterEvenNumber.exe
+C:\Users\andri\Desktop\My Projects\AdvancedLoops\11. EnterEvenNumber\obj\Debug\_11.EnterEvenNumber.pdb
+C:\Users\andri\Desktop\My Projects\AdvancedLoops\11. EnterEvenNumber\obj\Debug\11. EnterEvenNumber.csprojResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+c:\users\andri\documents\visual studio 2017\Projects\Simple-Calculations\03.GreetingByName\bin\Debug\03.GreetingByName.exe.config
+c:\users\andri\documents\visual studio 2017\Projects\Simple-Calculations\03.GreetingByName\bin\Debug\03.GreetingByName.exe
+c:\users\andri\documents\visual studio 2017\Projects\Simple-Calculations\03.GreetingByName\bin\Debug\03.GreetingByName.pdb
+c:\users\andri\documents\visual studio 2017\Projects\Simple-Calculations\03.GreetingByName\obj\Debug\03.GreetingByName.exe
+c:\users\andri\documents\visual studio 2017\Projects\Simple-Calculations\03.GreetingByName\obj\Debug\03.GreetingByName.pdb

@@ -1,0 +1,5 @@
+c:\users\andri\documents\visual studio 2017\Projects\Loops\05.MaxNumber\bin\Debug\05.MaxNumber.exe.config
+c:\users\andri\documents\visual studio 2017\Projects\Loops\05.MaxNumber\bin\Debug\05.MaxNumber.exe
+c:\users\andri\documents\visual studio 2017\Projects\Loops\05.MaxNumber\bin\Debug\05.MaxNumber.pdb
+c:\users\andri\documents\visual studio 2017\Projects\Loops\05.MaxNumber\obj\Debug\05.MaxNumber.exe
+c:\users\andri\documents\visual studio 2017\Projects\Loops\05.MaxNumber\obj\Debug\05.MaxNumber.pdb

@@ -1,0 +1,6 @@
+C:\Users\andri\Desktop\Visual Studio 2017\Projects\Simple-Conditions\notImportant\bin\Debug\notImportant.exe.config
+C:\Users\andri\Desktop\Visual Studio 2017\Projects\Simple-Conditions\notImportant\bin\Debug\notImportant.exe
+C:\Users\andri\Desktop\Visual Studio 2017\Projects\Simple-Conditions\notImportant\bin\Debug\notImportant.pdb
+C:\Users\andri\Desktop\Visual Studio 2017\Projects\Simple-Conditions\notImportant\obj\Debug\notImportant.csprojResolveAssemblyReference.cache
+C:\Users\andri\Desktop\Visual Studio 2017\Projects\Simple-Conditions\notImportant\obj\Debug\notImportant.exe
+C:\Users\andri\Desktop\Visual Studio 2017\Projects\Simple-Conditions\notImportant\obj\Debug\notImportant.pdb

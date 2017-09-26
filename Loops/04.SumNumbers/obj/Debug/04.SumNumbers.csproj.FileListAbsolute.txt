@@ -1,0 +1,5 @@
+c:\users\andri\documents\visual studio 2017\Projects\Loops\04.SumNumbers\bin\Debug\04.SumNumbers.exe.config
+c:\users\andri\documents\visual studio 2017\Projects\Loops\04.SumNumbers\bin\Debug\04.SumNumbers.exe
+c:\users\andri\documents\visual studio 2017\Projects\Loops\04.SumNumbers\bin\Debug\04.SumNumbers.pdb
+c:\users\andri\documents\visual studio 2017\Projects\Loops\04.SumNumbers\obj\Debug\04.SumNumbers.exe
+c:\users\andri\documents\visual studio 2017\Projects\Loops\04.SumNumbers\obj\Debug\04.SumNumbers.pdb

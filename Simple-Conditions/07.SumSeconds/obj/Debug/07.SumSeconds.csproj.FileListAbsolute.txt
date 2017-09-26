@@ -1,0 +1,6 @@
+c:\users\andri\documents\visual studio 2017\Projects\Simple-Conditions\07.SumSeconds\obj\Debug\07.SumSeconds.csprojResolveAssemblyReference.cache
+c:\users\andri\documents\visual studio 2017\Projects\Simple-Conditions\07.SumSeconds\bin\Debug\07.SumSeconds.exe.config
+c:\users\andri\documents\visual studio 2017\Projects\Simple-Conditions\07.SumSeconds\bin\Debug\07.SumSeconds.exe
+c:\users\andri\documents\visual studio 2017\Projects\Simple-Conditions\07.SumSeconds\bin\Debug\07.SumSeconds.pdb
+c:\users\andri\documents\visual studio 2017\Projects\Simple-Conditions\07.SumSeconds\obj\Debug\07.SumSeconds.exe
+c:\users\andri\documents\visual studio 2017\Projects\Simple-Conditions\07.SumSeconds\obj\Debug\07.SumSeconds.pdb

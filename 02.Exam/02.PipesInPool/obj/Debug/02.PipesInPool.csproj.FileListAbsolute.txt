@@ -1,0 +1,6 @@
+c:\users\andri\documents\visual studio 2017\Projects\02.Exam\02.PipesInPool\bin\Debug\02.PipesInPool.exe.config
+c:\users\andri\documents\visual studio 2017\Projects\02.Exam\02.PipesInPool\bin\Debug\02.PipesInPool.exe
+c:\users\andri\documents\visual studio 2017\Projects\02.Exam\02.PipesInPool\bin\Debug\02.PipesInPool.pdb
+c:\users\andri\documents\visual studio 2017\Projects\02.Exam\02.PipesInPool\obj\Debug\02.PipesInPool.csprojResolveAssemblyReference.cache
+c:\users\andri\documents\visual studio 2017\Projects\02.Exam\02.PipesInPool\obj\Debug\02.PipesInPool.exe
+c:\users\andri\documents\visual studio 2017\Projects\02.Exam\02.PipesInPool\obj\Debug\02.PipesInPool.pdb

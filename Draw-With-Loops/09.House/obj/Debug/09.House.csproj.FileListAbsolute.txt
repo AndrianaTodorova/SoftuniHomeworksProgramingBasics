@@ -1,0 +1,6 @@
+C:\Users\andri\Desktop\My Projects\Draw-With-Loops\09.House\bin\Debug\09.House.exe.config
+C:\Users\andri\Desktop\My Projects\Draw-With-Loops\09.House\bin\Debug\09.House.exe
+C:\Users\andri\Desktop\My Projects\Draw-With-Loops\09.House\bin\Debug\09.House.pdb
+C:\Users\andri\Desktop\My Projects\Draw-With-Loops\09.House\obj\Debug\09.House.csprojResolveAssemblyReference.cache
+C:\Users\andri\Desktop\My Projects\Draw-With-Loops\09.House\obj\Debug\09.House.exe
+C:\Users\andri\Desktop\My Projects\Draw-With-Loops\09.House\obj\Debug\09.House.pdb

@@ -1,0 +1,5 @@
+C:\Users\andri\Desktop\My Projects\AdvancedLoops\14. Number Table\bin\Debug\_14.Number_Table.exe.config
+C:\Users\andri\Desktop\My Projects\AdvancedLoops\14. Number Table\bin\Debug\_14.Number_Table.exe
+C:\Users\andri\Desktop\My Projects\AdvancedLoops\14. Number Table\bin\Debug\_14.Number_Table.pdb
+C:\Users\andri\Desktop\My Projects\AdvancedLoops\14. Number Table\obj\Debug\_14.Number_Table.exe
+C:\Users\andri\Desktop\My Projects\AdvancedLoops\14. Number Table\obj\Debug\_14.Number_Table.pdb

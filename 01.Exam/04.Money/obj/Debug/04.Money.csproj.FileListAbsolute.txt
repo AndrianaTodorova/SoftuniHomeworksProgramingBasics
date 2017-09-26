@@ -1,0 +1,6 @@
+C:\Users\andri\Documents\Visual Studio 2017\Projects\01.Exam\04.Money\bin\Debug\04.Money.exe.config
+C:\Users\andri\Documents\Visual Studio 2017\Projects\01.Exam\04.Money\bin\Debug\04.Money.exe
+C:\Users\andri\Documents\Visual Studio 2017\Projects\01.Exam\04.Money\bin\Debug\04.Money.pdb
+C:\Users\andri\Documents\Visual Studio 2017\Projects\01.Exam\04.Money\obj\Debug\04.Money.csprojResolveAssemblyReference.cache
+C:\Users\andri\Documents\Visual Studio 2017\Projects\01.Exam\04.Money\obj\Debug\04.Money.exe
+C:\Users\andri\Documents\Visual Studio 2017\Projects\01.Exam\04.Money\obj\Debug\04.Money.pdb

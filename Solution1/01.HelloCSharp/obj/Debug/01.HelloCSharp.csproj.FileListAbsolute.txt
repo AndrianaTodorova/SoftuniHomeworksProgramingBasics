@@ -1,0 +1,6 @@
+C:\Users\andri\Desktop\Visual Studio 2017\Projects\Solution1\01.HelloCSharp\bin\Debug\01.HelloCSharp.exe.config
+C:\Users\andri\Desktop\Visual Studio 2017\Projects\Solution1\01.HelloCSharp\bin\Debug\01.HelloCSharp.exe
+C:\Users\andri\Desktop\Visual Studio 2017\Projects\Solution1\01.HelloCSharp\bin\Debug\01.HelloCSharp.pdb
+C:\Users\andri\Desktop\Visual Studio 2017\Projects\Solution1\01.HelloCSharp\obj\Debug\01.HelloCSharp.csprojResolveAssemblyReference.cache
+C:\Users\andri\Desktop\Visual Studio 2017\Projects\Solution1\01.HelloCSharp\obj\Debug\01.HelloCSharp.exe
+C:\Users\andri\Desktop\Visual Studio 2017\Projects\Solution1\01.HelloCSharp\obj\Debug\01.HelloCSharp.pdb

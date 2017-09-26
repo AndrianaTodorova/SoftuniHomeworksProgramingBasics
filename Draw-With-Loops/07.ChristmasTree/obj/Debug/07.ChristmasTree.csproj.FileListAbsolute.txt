@@ -1,0 +1,5 @@
+c:\users\andri\documents\visual studio 2017\Projects\Draw-With-Loops\07.ChristmasTree\bin\Debug\07.ChristmasTree.exe.config
+c:\users\andri\documents\visual studio 2017\Projects\Draw-With-Loops\07.ChristmasTree\bin\Debug\07.ChristmasTree.exe
+c:\users\andri\documents\visual studio 2017\Projects\Draw-With-Loops\07.ChristmasTree\bin\Debug\07.ChristmasTree.pdb
+c:\users\andri\documents\visual studio 2017\Projects\Draw-With-Loops\07.ChristmasTree\obj\Debug\07.ChristmasTree.exe
+c:\users\andri\documents\visual studio 2017\Projects\Draw-With-Loops\07.ChristmasTree\obj\Debug\07.ChristmasTree.pdb

@@ -1,0 +1,5 @@
+c:\users\andri\documents\visual studio 2017\Projects\Simple-Calculations\11.USDtoBGN\bin\Debug\11.USDtoBGN.exe.config
+c:\users\andri\documents\visual studio 2017\Projects\Simple-Calculations\11.USDtoBGN\bin\Debug\11.USDtoBGN.exe
+c:\users\andri\documents\visual studio 2017\Projects\Simple-Calculations\11.USDtoBGN\bin\Debug\11.USDtoBGN.pdb
+c:\users\andri\documents\visual studio 2017\Projects\Simple-Calculations\11.USDtoBGN\obj\Debug\11.USDtoBGN.exe
+c:\users\andri\documents\visual studio 2017\Projects\Simple-Calculations\11.USDtoBGN\obj\Debug\11.USDtoBGN.pdb

@@ -1,0 +1,5 @@
+c:\users\andri\documents\visual studio 2017\Projects\Simple-Conditions\04.GreaterNumber\bin\Debug\04.GreaterNumber.exe.config
+c:\users\andri\documents\visual studio 2017\Projects\Simple-Conditions\04.GreaterNumber\bin\Debug\04.GreaterNumber.exe
+c:\users\andri\documents\visual studio 2017\Projects\Simple-Conditions\04.GreaterNumber\bin\Debug\04.GreaterNumber.pdb
+c:\users\andri\documents\visual studio 2017\Projects\Simple-Conditions\04.GreaterNumber\obj\Debug\04.GreaterNumber.exe
+c:\users\andri\documents\visual studio 2017\Projects\Simple-Conditions\04.GreaterNumber\obj\Debug\04.GreaterNumber.pdb

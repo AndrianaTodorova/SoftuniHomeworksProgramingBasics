@@ -1,0 +1,6 @@
+c:\users\andri\documents\visual studio 2017\Projects\Simple-Calculations\01.SquareArea\bin\Debug\01.SquareArea.exe.config
+c:\users\andri\documents\visual studio 2017\Projects\Simple-Calculations\01.SquareArea\bin\Debug\01.SquareArea.exe
+c:\users\andri\documents\visual studio 2017\Projects\Simple-Calculations\01.SquareArea\bin\Debug\01.SquareArea.pdb
+c:\users\andri\documents\visual studio 2017\Projects\Simple-Calculations\01.SquareArea\obj\Debug\01.SquareArea.csprojResolveAssemblyReference.cache
+c:\users\andri\documents\visual studio 2017\Projects\Simple-Calculations\01.SquareArea\obj\Debug\01.SquareArea.exe
+c:\users\andri\documents\visual studio 2017\Projects\Simple-Calculations\01.SquareArea\obj\Debug\01.SquareArea.pdb

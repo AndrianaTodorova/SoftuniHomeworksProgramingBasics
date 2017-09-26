@@ -1,0 +1,5 @@
+c:\users\andri\documents\visual studio 2017\Projects\Loops\03.LattinLetters\bin\Debug\03.LattinLetters.exe.config
+c:\users\andri\documents\visual studio 2017\Projects\Loops\03.LattinLetters\bin\Debug\03.LattinLetters.exe
+c:\users\andri\documents\visual studio 2017\Projects\Loops\03.LattinLetters\bin\Debug\03.LattinLetters.pdb
+c:\users\andri\documents\visual studio 2017\Projects\Loops\03.LattinLetters\obj\Debug\03.LattinLetters.exe
+c:\users\andri\documents\visual studio 2017\Projects\Loops\03.LattinLetters\obj\Debug\03.LattinLetters.pdb

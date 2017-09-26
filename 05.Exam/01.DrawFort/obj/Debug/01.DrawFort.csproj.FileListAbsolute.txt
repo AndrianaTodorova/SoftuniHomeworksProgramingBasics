@@ -1,0 +1,12 @@
+c:\users\andri\documents\visual studio 2017\Projects\05.Exam\01.DrawFort\bin\Debug\01.DrawFort.exe.config
+c:\users\andri\documents\visual studio 2017\Projects\05.Exam\01.DrawFort\bin\Debug\01.DrawFort.exe
+c:\users\andri\documents\visual studio 2017\Projects\05.Exam\01.DrawFort\bin\Debug\01.DrawFort.pdb
+c:\users\andri\documents\visual studio 2017\Projects\05.Exam\01.DrawFort\obj\Debug\01.DrawFort.csprojResolveAssemblyReference.cache
+c:\users\andri\documents\visual studio 2017\Projects\05.Exam\01.DrawFort\obj\Debug\01.DrawFort.exe
+c:\users\andri\documents\visual studio 2017\Projects\05.Exam\01.DrawFort\obj\Debug\01.DrawFort.pdb
+C:\Users\andri\Desktop\My Projects\05.Exam\01.DrawFort\bin\Debug\01.DrawFort.exe.config
+C:\Users\andri\Desktop\My Projects\05.Exam\01.DrawFort\bin\Debug\01.DrawFort.exe
+C:\Users\andri\Desktop\My Projects\05.Exam\01.DrawFort\bin\Debug\01.DrawFort.pdb
+C:\Users\andri\Desktop\My Projects\05.Exam\01.DrawFort\obj\Debug\01.DrawFort.csprojResolveAssemblyReference.cache
+C:\Users\andri\Desktop\My Projects\05.Exam\01.DrawFort\obj\Debug\01.DrawFort.exe
+C:\Users\andri\Desktop\My Projects\05.Exam\01.DrawFort\obj\Debug\01.DrawFort.pdb

@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.Histogram", "01.Histogram\01.Histogram.csproj", "{16F35BD9-374E-406E-95CB-688F73A49E63}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.Divide", "o2.Divide\02.Divide.csproj", "{D27DD648-4383-457E-9180-EF85C4BC313E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.SmartLilly", "03.SmartLilly\03.SmartLilly.csproj", "{92380813-136A-45DD-82E2-1936C14BFCBF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{16F35BD9-374E-406E-95CB-688F73A49E63}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16F35BD9-374E-406E-95CB-688F73A49E63}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16F35BD9-374E-406E-95CB-688F73A49E63}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16F35BD9-374E-406E-95CB-688F73A49E63}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D27DD648-4383-457E-9180-EF85C4BC313E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D27DD648-4383-457E-9180-EF85C4BC313E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D27DD648-4383-457E-9180-EF85C4BC313E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D27DD648-4383-457E-9180-EF85C4BC313E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{92380813-136A-45DD-82E2-1936C14BFCBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92380813-136A-45DD-82E2-1936C14BFCBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92380813-136A-45DD-82E2-1936C14BFCBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92380813-136A-45DD-82E2-1936C14BFCBF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

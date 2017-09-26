@@ -1,0 +1,5 @@
+c:\users\andri\documents\visual studio 2017\Projects\Loops\02.NumbersEndingIn7\bin\Debug\02.NumbersEndingIn7.exe.config
+c:\users\andri\documents\visual studio 2017\Projects\Loops\02.NumbersEndingIn7\bin\Debug\02.NumbersEndingIn7.exe
+c:\users\andri\documents\visual studio 2017\Projects\Loops\02.NumbersEndingIn7\bin\Debug\02.NumbersEndingIn7.pdb
+c:\users\andri\documents\visual studio 2017\Projects\Loops\02.NumbersEndingIn7\obj\Debug\02.NumbersEndingIn7.exe
+c:\users\andri\documents\visual studio 2017\Projects\Loops\02.NumbersEndingIn7\obj\Debug\02.NumbersEndingIn7.pdb

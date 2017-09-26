@@ -1,0 +1,5 @@
+c:\users\andri\documents\visual studio 2017\Projects\Draw-With-Loops\04.TriangleOfDollars\bin\Debug\04.TriangleOfDollars.exe.config
+c:\users\andri\documents\visual studio 2017\Projects\Draw-With-Loops\04.TriangleOfDollars\bin\Debug\04.TriangleOfDollars.exe
+c:\users\andri\documents\visual studio 2017\Projects\Draw-With-Loops\04.TriangleOfDollars\bin\Debug\04.TriangleOfDollars.pdb
+c:\users\andri\documents\visual studio 2017\Projects\Draw-With-Loops\04.TriangleOfDollars\obj\Debug\04.TriangleOfDollars.exe
+c:\users\andri\documents\visual studio 2017\Projects\Draw-With-Loops\04.TriangleOfDollars\obj\Debug\04.TriangleOfDollars.pdb

@@ -1,0 +1,6 @@
+c:\users\andri\documents\visual studio 2017\Projects\04.Exam\01.Histogram\bin\Debug\01.Histogram.exe.config
+c:\users\andri\documents\visual studio 2017\Projects\04.Exam\01.Histogram\bin\Debug\01.Histogram.exe
+c:\users\andri\documents\visual studio 2017\Projects\04.Exam\01.Histogram\bin\Debug\01.Histogram.pdb
+c:\users\andri\documents\visual studio 2017\Projects\04.Exam\01.Histogram\obj\Debug\01.Histogram.csprojResolveAssemblyReference.cache
+c:\users\andri\documents\visual studio 2017\Projects\04.Exam\01.Histogram\obj\Debug\01.Histogram.exe
+c:\users\andri\documents\visual studio 2017\Projects\04.Exam\01.Histogram\obj\Debug\01.Histogram.pdb

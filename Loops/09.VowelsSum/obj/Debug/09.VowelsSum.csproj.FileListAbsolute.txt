@@ -1,0 +1,5 @@
+C:\Users\andri\Desktop\Visual Studio 2017\Projects\Loops\09.VowelsSum\bin\Debug\09.VowelsSum.exe.config
+C:\Users\andri\Desktop\Visual Studio 2017\Projects\Loops\09.VowelsSum\bin\Debug\09.VowelsSum.exe
+C:\Users\andri\Desktop\Visual Studio 2017\Projects\Loops\09.VowelsSum\bin\Debug\09.VowelsSum.pdb
+C:\Users\andri\Desktop\Visual Studio 2017\Projects\Loops\09.VowelsSum\obj\Debug\09.VowelsSum.exe
+C:\Users\andri\Desktop\Visual Studio 2017\Projects\Loops\09.VowelsSum\obj\Debug\09.VowelsSum.pdb

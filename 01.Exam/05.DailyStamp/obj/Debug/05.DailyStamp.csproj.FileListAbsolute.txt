@@ -1,0 +1,5 @@
+C:\Users\andri\Documents\Visual Studio 2017\Projects\01.Exam\05.DailyStamp\bin\Debug\05.DailyStamp.exe.config
+C:\Users\andri\Documents\Visual Studio 2017\Projects\01.Exam\05.DailyStamp\bin\Debug\05.DailyStamp.exe
+C:\Users\andri\Documents\Visual Studio 2017\Projects\01.Exam\05.DailyStamp\bin\Debug\05.DailyStamp.pdb
+C:\Users\andri\Documents\Visual Studio 2017\Projects\01.Exam\05.DailyStamp\obj\Debug\05.DailyStamp.exe
+C:\Users\andri\Documents\Visual Studio 2017\Projects\01.Exam\05.DailyStamp\obj\Debug\05.DailyStamp.pdb

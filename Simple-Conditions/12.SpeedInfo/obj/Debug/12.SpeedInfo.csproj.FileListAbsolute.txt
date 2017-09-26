@@ -1,0 +1,5 @@
+C:\Users\andri\Documents\Visual Studio 2017\Projects\Simple-Conditions\12.SpeedInfo\bin\Debug\12.SpeedInfo.exe.config
+C:\Users\andri\Documents\Visual Studio 2017\Projects\Simple-Conditions\12.SpeedInfo\bin\Debug\12.SpeedInfo.exe
+C:\Users\andri\Documents\Visual Studio 2017\Projects\Simple-Conditions\12.SpeedInfo\bin\Debug\12.SpeedInfo.pdb
+C:\Users\andri\Documents\Visual Studio 2017\Projects\Simple-Conditions\12.SpeedInfo\obj\Debug\12.SpeedInfo.exe
+C:\Users\andri\Documents\Visual Studio 2017\Projects\Simple-Conditions\12.SpeedInfo\obj\Debug\12.SpeedInfo.pdb

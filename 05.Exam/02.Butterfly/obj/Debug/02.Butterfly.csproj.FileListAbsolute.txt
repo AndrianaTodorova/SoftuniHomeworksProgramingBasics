@@ -1,0 +1,6 @@
+C:\Users\andri\Desktop\My Projects\05.Exam\02.Butterfly\obj\Debug\02.Butterfly.csprojResolveAssemblyReference.cache
+C:\Users\andri\Desktop\My Projects\05.Exam\02.Butterfly\bin\Debug\02.Butterfly.exe.config
+C:\Users\andri\Desktop\My Projects\05.Exam\02.Butterfly\bin\Debug\02.Butterfly.exe
+C:\Users\andri\Desktop\My Projects\05.Exam\02.Butterfly\bin\Debug\02.Butterfly.pdb
+C:\Users\andri\Desktop\My Projects\05.Exam\02.Butterfly\obj\Debug\02.Butterfly.exe
+C:\Users\andri\Desktop\My Projects\05.Exam\02.Butterfly\obj\Debug\02.Butterfly.pdb

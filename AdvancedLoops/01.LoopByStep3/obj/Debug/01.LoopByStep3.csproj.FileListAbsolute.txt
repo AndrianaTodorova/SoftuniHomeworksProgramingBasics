@@ -1,0 +1,6 @@
+c:\users\andri\documents\visual studio 2017\Projects\AdvancedLoops\01.LoopByStep3\bin\Debug\01.LoopByStep3.exe.config
+c:\users\andri\documents\visual studio 2017\Projects\AdvancedLoops\01.LoopByStep3\bin\Debug\01.LoopByStep3.exe
+c:\users\andri\documents\visual studio 2017\Projects\AdvancedLoops\01.LoopByStep3\bin\Debug\01.LoopByStep3.pdb
+c:\users\andri\documents\visual studio 2017\Projects\AdvancedLoops\01.LoopByStep3\obj\Debug\01.LoopByStep3.csprojResolveAssemblyReference.cache
+c:\users\andri\documents\visual studio 2017\Projects\AdvancedLoops\01.LoopByStep3\obj\Debug\01.LoopByStep3.exe
+c:\users\andri\documents\visual studio 2017\Projects\AdvancedLoops\01.LoopByStep3\obj\Debug\01.LoopByStep3.pdb

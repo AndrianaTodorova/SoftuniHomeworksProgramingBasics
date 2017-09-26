@@ -1,0 +1,6 @@
+C:\Users\andri\Documents\Visual Studio 2017\Projects\01.Exam\02.Tiles\bin\Debug\02.Tiles.exe.config
+C:\Users\andri\Documents\Visual Studio 2017\Projects\01.Exam\02.Tiles\bin\Debug\02.Tiles.exe
+C:\Users\andri\Documents\Visual Studio 2017\Projects\01.Exam\02.Tiles\bin\Debug\02.Tiles.pdb
+C:\Users\andri\Documents\Visual Studio 2017\Projects\01.Exam\02.Tiles\obj\Debug\03.Tiles.csprojResolveAssemblyReference.cache
+C:\Users\andri\Documents\Visual Studio 2017\Projects\01.Exam\02.Tiles\obj\Debug\02.Tiles.exe
+C:\Users\andri\Documents\Visual Studio 2017\Projects\01.Exam\02.Tiles\obj\Debug\02.Tiles.pdb

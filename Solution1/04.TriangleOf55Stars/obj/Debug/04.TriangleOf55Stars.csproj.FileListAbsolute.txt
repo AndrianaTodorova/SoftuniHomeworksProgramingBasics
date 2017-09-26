@@ -1,0 +1,5 @@
+C:\Users\andri\Desktop\Visual Studio 2017\Projects\Solution1\04.TriangleOf55Stars\bin\Debug\04.TriangleOf55Stars.exe.config
+C:\Users\andri\Desktop\Visual Studio 2017\Projects\Solution1\04.TriangleOf55Stars\bin\Debug\04.TriangleOf55Stars.exe
+C:\Users\andri\Desktop\Visual Studio 2017\Projects\Solution1\04.TriangleOf55Stars\bin\Debug\04.TriangleOf55Stars.pdb
+C:\Users\andri\Desktop\Visual Studio 2017\Projects\Solution1\04.TriangleOf55Stars\obj\Debug\04.TriangleOf55Stars.exe
+C:\Users\andri\Desktop\Visual Studio 2017\Projects\Solution1\04.TriangleOf55Stars\obj\Debug\04.TriangleOf55Stars.pdb

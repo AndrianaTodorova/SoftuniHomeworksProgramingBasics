@@ -1,0 +1,5 @@
+c:\users\andri\documents\visual studio 2017\Projects\04.Exam\o2.Divide\bin\Debug\o2.Divide.exe.config
+c:\users\andri\documents\visual studio 2017\Projects\04.Exam\o2.Divide\bin\Debug\o2.Divide.exe
+c:\users\andri\documents\visual studio 2017\Projects\04.Exam\o2.Divide\bin\Debug\o2.Divide.pdb
+c:\users\andri\documents\visual studio 2017\Projects\04.Exam\o2.Divide\obj\Debug\o2.Divide.exe
+c:\users\andri\documents\visual studio 2017\Projects\04.Exam\o2.Divide\obj\Debug\o2.Divide.pdb

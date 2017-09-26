@@ -1,0 +1,5 @@
+C:\Users\andri\Documents\Visual Studio 2017\Projects\01.Exam\фгкгкгн\bin\Debug\фгкгкгн.exe.config
+C:\Users\andri\Documents\Visual Studio 2017\Projects\01.Exam\фгкгкгн\bin\Debug\фгкгкгн.exe
+C:\Users\andri\Documents\Visual Studio 2017\Projects\01.Exam\фгкгкгн\bin\Debug\фгкгкгн.pdb
+C:\Users\andri\Documents\Visual Studio 2017\Projects\01.Exam\фгкгкгн\obj\Debug\фгкгкгн.exe
+C:\Users\andri\Documents\Visual Studio 2017\Projects\01.Exam\фгкгкгн\obj\Debug\фгкгкгн.pdb

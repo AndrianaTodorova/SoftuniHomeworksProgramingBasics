@@ -1,0 +1,6 @@
+C:\Users\andri\Documents\Visual Studio 2017\Projects\Simple-Conditions\15.3EqualNumbers\bin\Debug\15.3EqualNumbers.exe.config
+C:\Users\andri\Documents\Visual Studio 2017\Projects\Simple-Conditions\15.3EqualNumbers\bin\Debug\15.3EqualNumbers.exe
+C:\Users\andri\Documents\Visual Studio 2017\Projects\Simple-Conditions\15.3EqualNumbers\bin\Debug\15.3EqualNumbers.pdb
+C:\Users\andri\Documents\Visual Studio 2017\Projects\Simple-Conditions\15.3EqualNumbers\obj\Debug\15.3EqualNumbers.csprojResolveAssemblyReference.cache
+C:\Users\andri\Documents\Visual Studio 2017\Projects\Simple-Conditions\15.3EqualNumbers\obj\Debug\15.3EqualNumbers.exe
+C:\Users\andri\Documents\Visual Studio 2017\Projects\Simple-Conditions\15.3EqualNumbers\obj\Debug\15.3EqualNumbers.pdb

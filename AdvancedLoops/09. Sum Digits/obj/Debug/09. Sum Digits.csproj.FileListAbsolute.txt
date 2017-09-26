@@ -1,0 +1,6 @@
+C:\Users\andri\Desktop\My Projects\AdvancedLoops\09. Sum Digits\bin\Debug\_09.Sum_Digits.exe.config
+C:\Users\andri\Desktop\My Projects\AdvancedLoops\09. Sum Digits\bin\Debug\_09.Sum_Digits.exe
+C:\Users\andri\Desktop\My Projects\AdvancedLoops\09. Sum Digits\bin\Debug\_09.Sum_Digits.pdb
+C:\Users\andri\Desktop\My Projects\AdvancedLoops\09. Sum Digits\obj\Debug\09. Sum Digits.csprojResolveAssemblyReference.cache
+C:\Users\andri\Desktop\My Projects\AdvancedLoops\09. Sum Digits\obj\Debug\_09.Sum_Digits.exe
+C:\Users\andri\Desktop\My Projects\AdvancedLoops\09. Sum Digits\obj\Debug\_09.Sum_Digits.pdb

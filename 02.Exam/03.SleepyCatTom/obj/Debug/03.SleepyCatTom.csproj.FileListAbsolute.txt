@@ -1,0 +1,6 @@
+c:\users\andri\documents\visual studio 2017\Projects\02.Exam\03.SleepyCatTom\bin\Debug\03.SleepyCatTom.exe.config
+c:\users\andri\documents\visual studio 2017\Projects\02.Exam\03.SleepyCatTom\bin\Debug\03.SleepyCatTom.exe
+c:\users\andri\documents\visual studio 2017\Projects\02.Exam\03.SleepyCatTom\bin\Debug\03.SleepyCatTom.pdb
+c:\users\andri\documents\visual studio 2017\Projects\02.Exam\03.SleepyCatTom\obj\Debug\03.SleepyCatTom.csprojResolveAssemblyReference.cache
+c:\users\andri\documents\visual studio 2017\Projects\02.Exam\03.SleepyCatTom\obj\Debug\03.SleepyCatTom.exe
+c:\users\andri\documents\visual studio 2017\Projects\02.Exam\03.SleepyCatTom\obj\Debug\03.SleepyCatTom.pdb

@@ -1,0 +1,5 @@
+c:\users\andri\documents\visual studio 2017\Projects\Simple-Conditions\02.ExcellentOrNot\bin\Debug\02.ExcellentOrNot.exe.config
+c:\users\andri\documents\visual studio 2017\Projects\Simple-Conditions\02.ExcellentOrNot\bin\Debug\02.ExcellentOrNot.exe
+c:\users\andri\documents\visual studio 2017\Projects\Simple-Conditions\02.ExcellentOrNot\bin\Debug\02.ExcellentOrNot.pdb
+c:\users\andri\documents\visual studio 2017\Projects\Simple-Conditions\02.ExcellentOrNot\obj\Debug\02.ExcellentOrNot.exe
+c:\users\andri\documents\visual studio 2017\Projects\Simple-Conditions\02.ExcellentOrNot\obj\Debug\02.ExcellentOrNot.pdb

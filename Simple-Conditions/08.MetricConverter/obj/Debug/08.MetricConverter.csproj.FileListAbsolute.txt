@@ -1,0 +1,6 @@
+c:\users\andri\documents\visual studio 2017\Projects\Simple-Conditions\08.MetricConverter\bin\Debug\08.MetricConverter.exe.config
+c:\users\andri\documents\visual studio 2017\Projects\Simple-Conditions\08.MetricConverter\bin\Debug\08.MetricConverter.exe
+c:\users\andri\documents\visual studio 2017\Projects\Simple-Conditions\08.MetricConverter\bin\Debug\08.MetricConverter.pdb
+c:\users\andri\documents\visual studio 2017\Projects\Simple-Conditions\08.MetricConverter\obj\Debug\08.MetricConverter.csprojResolveAssemblyReference.cache
+c:\users\andri\documents\visual studio 2017\Projects\Simple-Conditions\08.MetricConverter\obj\Debug\08.MetricConverter.exe
+c:\users\andri\documents\visual studio 2017\Projects\Simple-Conditions\08.MetricConverter\obj\Debug\08.MetricConverter.pdb

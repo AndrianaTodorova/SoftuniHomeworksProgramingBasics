@@ -1,0 +1,6 @@
+c:\users\andri\documents\visual studio 2017\Projects\Draw-With-Loops\RectangeOf10x10Stars\bin\Debug\RectangeOf10x10Stars.exe.config
+c:\users\andri\documents\visual studio 2017\Projects\Draw-With-Loops\RectangeOf10x10Stars\bin\Debug\RectangeOf10x10Stars.exe
+c:\users\andri\documents\visual studio 2017\Projects\Draw-With-Loops\RectangeOf10x10Stars\bin\Debug\RectangeOf10x10Stars.pdb
+c:\users\andri\documents\visual studio 2017\Projects\Draw-With-Loops\RectangeOf10x10Stars\obj\Debug\01.RectangeOf10x10Stars.csprojResolveAssemblyReference.cache
+c:\users\andri\documents\visual studio 2017\Projects\Draw-With-Loops\RectangeOf10x10Stars\obj\Debug\RectangeOf10x10Stars.exe
+c:\users\andri\documents\visual studio 2017\Projects\Draw-With-Loops\RectangeOf10x10Stars\obj\Debug\RectangeOf10x10Stars.pdb

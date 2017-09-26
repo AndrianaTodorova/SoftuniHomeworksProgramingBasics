@@ -1,0 +1,6 @@
+c:\users\andri\documents\visual studio 2017\Projects\03.Exam\01.OnTimeForExam\bin\Debug\01.OnTimeForExam.exe.config
+c:\users\andri\documents\visual studio 2017\Projects\03.Exam\01.OnTimeForExam\bin\Debug\01.OnTimeForExam.exe
+c:\users\andri\documents\visual studio 2017\Projects\03.Exam\01.OnTimeForExam\bin\Debug\01.OnTimeForExam.pdb
+c:\users\andri\documents\visual studio 2017\Projects\03.Exam\01.OnTimeForExam\obj\Debug\01.OnTimeForExam.csprojResolveAssemblyReference.cache
+c:\users\andri\documents\visual studio 2017\Projects\03.Exam\01.OnTimeForExam\obj\Debug\01.OnTimeForExam.exe
+c:\users\andri\documents\visual studio 2017\Projects\03.Exam\01.OnTimeForExam\obj\Debug\01.OnTimeForExam.pdb

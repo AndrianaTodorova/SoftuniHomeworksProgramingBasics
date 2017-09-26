@@ -1,0 +1,6 @@
+C:\Users\andri\Desktop\Visual Studio 2017\Projects\Loops\10.HalfSumElement\bin\Debug\10.HalfSumElement.exe.config
+C:\Users\andri\Desktop\Visual Studio 2017\Projects\Loops\10.HalfSumElement\bin\Debug\10.HalfSumElement.exe
+C:\Users\andri\Desktop\Visual Studio 2017\Projects\Loops\10.HalfSumElement\bin\Debug\10.HalfSumElement.pdb
+C:\Users\andri\Desktop\Visual Studio 2017\Projects\Loops\10.HalfSumElement\obj\Debug\10.HalfSumElement.csprojResolveAssemblyReference.cache
+C:\Users\andri\Desktop\Visual Studio 2017\Projects\Loops\10.HalfSumElement\obj\Debug\10.HalfSumElement.exe
+C:\Users\andri\Desktop\Visual Studio 2017\Projects\Loops\10.HalfSumElement\obj\Debug\10.HalfSumElement.pdb
